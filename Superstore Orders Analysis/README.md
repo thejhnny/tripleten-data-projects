@@ -1,7 +1,7 @@
-#Superstore Orders Analysis
+# Superstore Orders Analysis
 
-##Link to project:
+## Link to project:
 https://public.tableau.com/app/profile/johnny.siu/viz/Sprint4Project-JohnnySiu/AnalysisRecommendations
 
-##Overview:
+## Overview:
 Analyze company data and find possible ways to help increase revenue
